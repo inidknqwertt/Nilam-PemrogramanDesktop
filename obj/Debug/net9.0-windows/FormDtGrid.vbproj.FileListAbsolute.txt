@@ -1,0 +1,16 @@
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\bin\Debug\net9.0-windows\FormDtGrid.exe
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\bin\Debug\net9.0-windows\FormDtGrid.deps.json
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\bin\Debug\net9.0-windows\FormDtGrid.runtimeconfig.json
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\bin\Debug\net9.0-windows\FormDtGrid.dll
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\bin\Debug\net9.0-windows\FormDtGrid.pdb
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\obj\Debug\net9.0-windows\FormDtGrid.Form1.resources
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\obj\Debug\net9.0-windows\FormDtGrid.vbproj.GenerateResource.cache
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\obj\Debug\net9.0-windows\FormDtGrid.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\obj\Debug\net9.0-windows\FormDtGrid.AssemblyInfoInputs.cache
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\obj\Debug\net9.0-windows\FormDtGrid.AssemblyInfo.vb
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\obj\Debug\net9.0-windows\FormDtGrid.vbproj.CoreCompileInputs.cache
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\obj\Debug\net9.0-windows\FormDtGrid.dll
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\obj\Debug\net9.0-windows\refint\FormDtGrid.dll
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\obj\Debug\net9.0-windows\FormDtGrid.pdb
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\obj\Debug\net9.0-windows\FormDtGrid.genruntimeconfig.cache
+D:\TUGAS SMT 4\FormDtGrid\FormDtGrid\obj\Debug\net9.0-windows\ref\FormDtGrid.dll
